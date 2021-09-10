@@ -1,1 +1,1 @@
-# exercism
+# Practice programs in Go
